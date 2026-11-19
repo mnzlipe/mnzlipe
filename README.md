@@ -24,8 +24,7 @@ Gosto de construir sistemas limpos e bem organizados, do banco de dados à API, 
 
 - 🔧 Desenvolvo aplicações **backend** com Python, FastAPI e PostgreSQL/SQLite
 - 🛡️ Realizo **auditorias de segurança web**
-- 🏆 Participo de **hackathons**
-- 🥈 Medalha de prata na **OBLI 2025.2** (Olimpíada Brasileira de Língua Inglesa), com inglês fluente
+- 🇺🇸 Fleunte em inglês, com **certificação B2 First, do Cambridge** 
 - 🌐 Experiência com **infraestrutura de redes**
 
 ---
