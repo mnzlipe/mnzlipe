@@ -46,10 +46,6 @@ Gosto de construir sistemas limpos e bem organizados, do banco de dados à API, 
 
 - 🎬 **Edição de vídeo** com Premiere Pro e DaVinci Resolve
 - 🎨 **Design gráfico** no Photoshop
-- 📷 **Fotografia analógica** 35mm com uma Pentax K1000
-- 🎸 **Contrabaixo**
-- 🥊 UFC, games e treino
-- 👥 Projetos com o grupo de amigos **Quem Mais?**
 
 ---
 
@@ -68,7 +64,7 @@ Gosto de construir sistemas limpos e bem organizados, do banco de dados à API, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/felipe_menezesl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/felipemenezesl)
 [![E-mail](https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luizfelipemam2007@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/felipe_menezesl)
 
